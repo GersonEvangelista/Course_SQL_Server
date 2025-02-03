@@ -1,0 +1,8 @@
+INSTALACION DE SQL SERVER
+https://www.youtube.com/watch?v=LaMNcHteoGk
+
+****POR SI SALE ERROR EN EL PASWORD**
+https://www.youtube.com/watch?v=GDoOg_oeKEI
+
+***POR SI NO SE CONECTA AL SQL o BBDD**
+https://www.youtube.com/watch?v=mlO2YXv_jGg
